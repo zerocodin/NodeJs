@@ -1,0 +1,16 @@
+{
+  "name": "express-deep2",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "wafi",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "nodemon app.js"
+  },
+  "dependencies": {
+    "body-parser": "^2.4.0",
+    "express": "^5.3.0"
+  }
+}
